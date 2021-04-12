@@ -14,7 +14,7 @@ count_dat = json.loads(resp)
 
 config = {
     'user': 'root',
-    'password': 'rose1234',
+    'password': 'password',
     'host': 'localhost',
     'database':'countries01',
     'raise_on_warnings': True,
